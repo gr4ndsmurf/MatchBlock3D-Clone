@@ -1,2 +1,7 @@
-# MatchBlock3D-Clone
-a simple clone of Match Block 3D
+# 🎮 Match Block 3D Clone
+
+A simple clone of the popular mobile game "Match Block 3D", recreated for learning and practice purposes.
+
+## 📸 Screenshots
+[![gameplay](https://gr4ndsmurf.github.io/img/portfolio/MatchBlock3D.jpeg)]
+
