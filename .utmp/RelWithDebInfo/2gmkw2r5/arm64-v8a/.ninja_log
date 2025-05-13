@@ -1,0 +1,10 @@
+# ninja log v5
+8	3833	7688816295119755	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5850e60c2d2ccd59
+41	3892	7688816295165184	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c4711d0077bc827c
+56	3894	7688816295403704	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d71c5447ef24e6cf
+50	3967	7688816296425599	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2edc6e3ec15ecee
+18	3997	7688816296786280	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4bf1ed413ac74535
+12	4168	7688816298363462	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	29727ea14f372d92
+25	4464	7688816300824401	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	855fa8d9157a4b82
+1	4793	7688816304688757	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d157b8d2091e7de8
+4793	5109	7688816307802388	C:/Users/akinh/Desktop/Github/MatchBlock3D-Clone/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2gmkw2r5/obj/arm64-v8a/libgame.so	e60af9084c6351ed
